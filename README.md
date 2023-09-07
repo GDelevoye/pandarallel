@@ -17,6 +17,8 @@ CPUs by changing only one line of code. It also displays progress bars.
 
 ## Installation
 
+No don't do this this doesn't work ! *example*
+
 ```bash
 pip install pandarallel [--upgrade] [--user]
 ```
